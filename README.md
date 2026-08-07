@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SGC11PRO/SGC11PRO/main/header.svg" width="100%" alt="Sergio Garcia Cristobal — profile banner" />
+  <img src="https://raw.githubusercontent.com/SGC11PRO/SGC11PRO/home/header.svg" width="100%" alt="Sergio Garcia Cristobal — profile banner" />
 </p>
 
 <!-- ABOUT -->
@@ -17,7 +17,7 @@
 <h3 align="center">📊 GitHub dashboard</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SGC11PRO/SGC11PRO/main/dashboard.svg" width="100%" alt="GitHub analytics dashboard" />
+  <img src="https://raw.githubusercontent.com/SGC11PRO/SGC11PRO/home/dashboard.svg" width="100%" alt="GitHub analytics dashboard" />
 </p>
 
 <p align="center">
