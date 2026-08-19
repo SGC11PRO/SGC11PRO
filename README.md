@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/SGC11PRO">
-<img src="https://github-profile-trophy.vercel.app/?username=SGC11PRO&theme=algolia&no-frame=true&column=7&margin-w=10" width="100%" height=250 alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=SGC11PRO&theme=algolia&no-frame=true&column=7&margin-w=10" width="100%" height=500 alt="GitHub Trophies" />
 </a>
 
 <br/>
