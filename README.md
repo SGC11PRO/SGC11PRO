@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/SGC11PRO">
-<img src="https://github-profile-trophy.vercel.app/?username=SGC11PRO&theme=algolia&no-frame=true&column=7&margin-w=10" width="100%" height="100%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=SGC11PRO&theme=algolia&no-frame=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies" />
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=5B79F0&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hi%2C+I'm+Sergio+%F0%9F%91%8B;Computer+Engineering+@+UC3M;Cybersecurity+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=5B79F0&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=80&lines=Hi%2C+I'm+Sergio+%F0%9F%91%8B;Computer+Engineering+@+UC3M;Cybersecurity+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
