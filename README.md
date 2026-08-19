@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5B79F0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Pre-university+student;Future+Computer+Engineering+@+UC3M;Cybersecurity+enthusiast;Building+things+that+break+%28on+purpose%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5B79F0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Computer+Engineering+student+@+UC3M;Cybersecurity+enthusiast;Building+things+that+break+%28on+purpose%29;Self-taught+and+project-driven" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ## <h3 align="center">🧑 About me</h3>
 
 <p align="center">
-  I'm <b>Sergio</b> — a pre-university student starting <b>Computer Engineering</b> at <b>UC3M</b> (Madrid) in autumn 2026, with a focus on <b>cybersecurity</b>. I'm self-taught and project-driven: I learn by building things that work, break, and teach me something in the process.
+  I'm <b>Sergio</b> — a <b>Computer Engineering</b> student at <b>UC3M</b> (Madrid), specializing in <b>cybersecurity</b>. Self-taught and project-driven: I learn by building things that work, break, and teach me something in the process.
 </p>
 
 <p align="center">
@@ -216,7 +216,7 @@
 ## <h3 align="center">🗺️ 2026 Roadmap</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oct_2026_Start_@_UC3M-0d1117?style=for-the-badge&labelColor=5B79F0&label=Computer+Engineering" alt="UC3M" />
+  <img src="https://img.shields.io/badge/Computer_Engineering_@_UC3M-0d1117?style=for-the-badge&labelColor=5B79F0&label=In+progress" alt="UC3M" />
 </p>
 
 <p align="center">
