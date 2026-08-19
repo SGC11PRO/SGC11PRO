@@ -213,7 +213,7 @@
 
 ---
 
-## <h3 align="center">🗺️ 2026 Roadmap</h3>
+## <h3 align="center">🗺️ Roadmap</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer_Engineering_@_UC3M-0d1117?style=for-the-badge&labelColor=5B79F0&label=In+progress" alt="UC3M" />
