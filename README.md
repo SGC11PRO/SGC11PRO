@@ -1,99 +1,154 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5B79F0&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=250&lines=Computer+Engineering+student+@+UC3M;Cybersecurity+enthusiast;Building+things+that+break+%28on+purpose%29;Self-taught+and+project-driven" alt="Typing SVG" />
+<a href="https://github.com/SGC11PRO">
+<img src="https://github-profile-trophy.vercel.app/?username=SGC11PRO&theme=algolia&no-frame=true&column=7&margin-w=10" width="100%" alt="GitHub Trophies" />
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=5B79F0&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Hi%2C+I'm+Sergio+%F0%9F%91%8B;Computer+Engineering+@+UC3M;Cybersecurity+Enthusiast" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/SGC11PRO">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:sergio.garcia.cristobal@gmail.com">
+<img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/sergio-garc%C3%ADa-crist%C3%B3bal-88652741a/">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://sergiogarciacristobal.netlify.app">
+<img src="https://img.shields.io/badge/-Portfolio-5B79F0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 
 <br/>
 
 <br/>
 
-<a href="https://github.com/SGC11PRO"><img src="https://img.shields.io/badge/GitHub-SGC11PRO-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:sergio.garcia.cristobal@gmail.com"><img src="https://img.shields.io/badge/Email-Me-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
-<a href="https://www.linkedin.com/in/sergio-garc%C3%ADa-crist%C3%B3bal-88652741a/"><img src="https://img.shields.io/badge/LinkedIn-Sergio-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-<a href="https://sergiogarciacristobal.netlify.app"><img src="https://img.shields.io/badge/Portfolio-SGC-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-
-<br/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SGC11PRO&style=flat-square&color=5B79F0&label=Profile+Views" alt="Profile views" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=100&section=header" alt=""/>
 
 </div>
 
 ---
 
-## <div align="center">🧑 About me</div>
+<br/>
 
 <div align="center">
 
-I'm **Sergio** — a **Computer Engineering** student at **UC3M** (Madrid), specializing in **cybersecurity**.
-Self-taught and project-driven: I learn by building things that work, break, and teach me something in the process.
+### 🧑 About me
+
+I'm a **Computer Engineering** student at **UC3M** (Madrid), specializing in **cybersecurity**.
+Self-taught and project-driven — I learn by building things that work, break, and teach me something in the process.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Offensive_Security-0d1117?style=flat-square&labelColor=5B79F0" />
-<img src="https://img.shields.io/badge/Defensive_Security-0d1117?style=flat-square&labelColor=5B79F0" />
-<img src="https://img.shields.io/badge/Sistemas-0d1117?style=flat-square&labelColor=5B79F0" />
-<img src="https://img.shields.io/badge/IoT-0d1117?style=flat-square&labelColor=5B79F0" />
-<img src="https://img.shields.io/badge/IA_local-0d1117?style=flat-square&labelColor=5B79F0" />
-<img src="https://img.shields.io/badge/Full_stack-0d1117?style=flat-square&labelColor=5B79F0" />
+<a href="https://hackthebox.com/profile/SGC11PRO">
+<img src="https://img.shields.io/badge/Hack_The_Box-14171C?style=flat-square&logo=hackthebox&logoColor=9FEF00&label=Hack%20The%20Box" alt="Hack The Box"/>
+</a>
+<a href="https://tryhackme.com/p/SGC11PRO">
+<img src="https://img.shields.io/badge/TryHackMe-14171C?style=flat-square&logo=tryhackme&logoColor=212C42&label=TryHackMe" alt="TryHackMe"/>
+</a>
 
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=30&section=separator" alt=""/>
 </div>
 
 ---
 
-## <div align="center">🛠️ Tech stack</div>
+<br/>
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+### 🛠️ Tech Stack
 
 <br/>
 
-**Web**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets" />
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/><br/>
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/><br/>
+<sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/><br/>
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js"/><br/>
+<sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=fastapi" width="50" alt="FastAPI"/><br/>
+<sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html,css" width="50" alt="HTML/CSS"/><br/>
+<sub><b>HTML/CSS</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind"/><br/>
+<sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=arduino" width="50" alt="Arduino"/><br/>
+<sub><b>Arduino</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=sqlite" width="50" alt="SQLite"/><br/>
+<sub><b>SQLite</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux,bash" width="50" alt="Linux/Bash"/><br/>
+<sub><b>Linux/Bash</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=obsidian" width="50" alt="Obsidian"/><br/>
+<sub><b>Obsidian</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=notion" width="50" alt="Notion"/><br/>
+<sub><b>Notion</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-**Hardware / IoT**
-<br/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-
-<br/>
-
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
-
-<br/>
-
-**Security**
-<br/>
-<img src="https://img.shields.io/badge/Hack_The_Box-14171C?style=flat-square&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
-<img src="https://img.shields.io/badge/TryHackMe-14171C?style=flat-square&logo=tryhackme&logoColor=212C42" alt="TryHackMe" />
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=30&section=separator" alt=""/>
 </div>
 
 ---
 
-## <div align="center">📊 GitHub stats</div>
+<br/>
 
 <div align="center">
+
+### 📊 GitHub Stats
+
+<br/>
 
 <img src="https://github-readme-stats-wesleyac.vercel.app/api?username=SGC11PRO&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=5B79F0&icon_color=5B79F0&text_color=c9d1d9" alt="GitHub stats" width="49%" />
 <img src="https://github-readme-stats-wesleyac.vercel.app/api/top-langs/?username=SGC11PRO&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=5B79F0&text_color=c9d1d9" alt="Top languages" width="49%" />
@@ -112,153 +167,148 @@ Self-taught and project-driven: I learn by building things that work, break, and
 
 </div>
 
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=30&section=separator" alt=""/>
+</div>
+
 ---
 
-## <div align="center">🚀 Featured projects</div>
+<br/>
+
+<div align="center">
+
+### 🚀 Featured Projects
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🛡️ SSH Honeypot Dashboard</h4>
-      <p align="center">Fake SSH server that captures credentials & commands from real attackers, geolocates them, and streams everything to a live React dashboard via FastAPI + WebSockets.</p>
-      <p align="center">
-        <code>Python</code> <code>FastAPI</code> <code>React</code> <code>WebSockets</code>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Activo-238636?style=flat-square" alt="Activo" />
-        <img src="https://img.shields.io/badge/1_★-5B79F0?style=flat-square" alt="Stars" />
-      </p>
-      <p align="center"><a href="https://github.com/SGC11PRO/security-dashboard">View repo →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">📡 Net Scanner v2</h4>
-      <p align="center">Local network monitor: detects devices, captures per-interface traffic, stores history in SQLite and renders real-time charts + Markdown reports.</p>
-      <p align="center">
-        <code>Python</code> <code>SQLite</code> <code>Networking</code>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Activo-238636?style=flat-square" alt="Activo" />
-      </p>
-      <p align="center"><a href="https://github.com/SGC11PRO/net-scanner-v2">View repo →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🔑 Password Manager CLI</h4>
-      <p align="center">Command-line password manager in Python, built to learn applied cryptography the practical way.</p>
-      <p align="center">
-        <code>Python</code> <code>CLI</code> <code>Cryptography</code>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Completado-238636?style=flat-square" alt="Completado" />
-      </p>
-      <p align="center"><a href="https://github.com/SGC11PRO/password-manager-cli">View repo →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">💰 Finance Tracker</h4>
-      <p align="center">Turns your Notion database into a self-hosted finance dashboard: budgets, spending analytics and advice, backed by a local SQLite REST API.</p>
-      <p align="center">
-        <code>JavaScript</code> <code>Notion</code> <code>SQLite</code> <code>Dashboard</code>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Activo-238636?style=flat-square" alt="Activo" />
-      </p>
-      <p align="center"><a href="https://github.com/SGC11PRO/finance-tracker">View repo →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🧠 Brain Daily</h4>
-      <p align="center">Daily cognitive-training app for older adults — one short challenge a day, accessibility-first: large type, high contrast, big touch targets.</p>
-      <p align="center">
-        <code>TypeScript</code> <code>Accessibility</code>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Activo-238636?style=flat-square" alt="Activo" />
-      </p>
-      <p align="center"><a href="https://github.com/SGC11PRO/brain-daily">View repo →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">📷 Photo Gallery</h4>
-      <p align="center">A holiday photo carousel built with Next.js — responsive and fast.</p>
-      <p align="center">
-        <code>Next.js</code> <code>React</code> <code>JavaScript</code>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Completado-238636?style=flat-square" alt="Completado" />
-      </p>
-      <p align="center"><a href="https://github.com/SGC11PRO/photo-gallery">View repo →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🔍 Port Scanner CLI</h4>
-      <p align="center">Command-line TCP port scanner built with Python to learn networking and socket programming fundamentals.</p>
-      <p align="center">
-        <code>Python</code> <code>CLI</code> <code>Networking</code>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Completado-238636?style=flat-square" alt="Completado" />
-      </p>
-      <p align="center"><a href="https://github.com/SGC11PRO/port-scanner-cli">View repo →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🤖 AI Office</h4>
-      <p align="center">Office productivity tool powered by AI — exploring automation and intelligent workflows.</p>
-      <p align="center">
-        <code>JavaScript</code> <code>AI</code>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Activo-238636?style=flat-square" alt="Activo" />
-      </p>
-      <p align="center"><a href="https://github.com/SGC11PRO/ai-office">View repo →</a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ SSH Honeypot Dashboard
+> Fake SSH server that captures credentials & commands from real attackers, geolocates them, and streams everything to a live React dashboard via FastAPI + WebSockets.
+
+`Python` `FastAPI` `React` `WebSockets`
+
+<a href="https://github.com/SGC11PRO/security-dashboard"><img src="https://img.shields.io/badge/View_Repo-5B79F0?style=flat-square&logo=github&logoColor=white" alt="View repo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📡 Net Scanner v2
+> Local network monitor: detects devices, captures per-interface traffic, stores history in SQLite and renders real-time charts + Markdown reports.
+
+`Python` `SQLite` `Networking`
+
+<a href="https://github.com/SGC11PRO/net-scanner-v2"><img src="https://img.shields.io/badge/View_Repo-5B79F0?style=flat-square&logo=github&logoColor=white" alt="View repo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔑 Password Manager CLI
+> Command-line password manager in Python, built to learn applied cryptography the practical way.
+
+`Python` `CLI` `Cryptography`
+
+<a href="https://github.com/SGC11PRO/password-manager-cli"><img src="https://img.shields.io/badge/View_Repo-5B79F0?style=flat-square&logo=github&logoColor=white" alt="View repo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 💰 Finance Tracker
+> Turns your Notion database into a self-hosted finance dashboard: budgets, spending analytics and advice, backed by a local SQLite REST API.
+
+`JavaScript` `Notion` `SQLite` `Dashboard`
+
+<a href="https://github.com/SGC11PRO/finance-tracker"><img src="https://img.shields.io/badge/View_Repo-5B79F0?style=flat-square&logo=github&logoColor=white" alt="View repo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 Brain Daily
+> Daily cognitive-training app for older adults — one short challenge a day, accessibility-first: large type, high contrast, big touch targets.
+
+`TypeScript` `Accessibility`
+
+<a href="https://github.com/SGC11PRO/brain-daily"><img src="https://img.shields.io/badge/View_Repo-5B79F0?style=flat-square&logo=github&logoColor=white" alt="View repo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📷 Photo Gallery
+> A holiday photo carousel built with Next.js — responsive and fast.
+
+`Next.js` `React` `JavaScript`
+
+<a href="https://github.com/SGC11PRO/photo-gallery"><img src="https://img.shields.io/badge/View_Repo-5B79F0?style=flat-square&logo=github&logoColor=white" alt="View repo"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔍 Port Scanner CLI
+> Command-line TCP port scanner built with Python to learn networking and socket programming fundamentals.
+
+`Python` `CLI` `Networking`
+
+<a href="https://github.com/SGC11PRO/port-scanner-cli"><img src="https://img.shields.io/badge/View_Repo-5B79F0?style=flat-square&logo=github&logoColor=white" alt="View repo"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 AI Office
+> Office productivity tool powered by AI — exploring automation and intelligent workflows.
+
+`JavaScript` `AI`
+
+<a href="https://github.com/SGC11PRO/ai-office"><img src="https://img.shields.io/badge/View_Repo-5B79F0?style=flat-square&logo=github&logoColor=white" alt="View repo"/></a>
+
+</td>
+</tr>
 </table>
 
----
-
-## <div align="center">🗺️ Roadmap</div>
+<br/>
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Computer_Engineering_@_UC3M-0d1117?style=for-the-badge&labelColor=5B79F0&label=In+progress" alt="UC3M" />
-
-<br/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Offensive_Security-0d1117?style=flat-square&labelColor=DA3633" alt="Offensive Security" />
-<img src="https://img.shields.io/badge/Defensive_Security-0d1117?style=flat-square&labelColor=238636" alt="Defensive Security" />
-<img src="https://img.shields.io/badge/AI_/_ML-0d1117?style=flat-square&labelColor=5B79F0" alt="AI/ML" />
-<img src="https://img.shields.io/badge/Quantum_Computing-0d1117?style=flat-square&labelColor=A371F7" alt="Quantum Computing" />
-<img src="https://img.shields.io/badge/IoT_&_Embedded-0d1117?style=flat-square&labelColor=F0883E" alt="IoT" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=30&section=separator" alt=""/>
 </div>
 
 ---
 
-## <div align="center">📬 Let's connect</div>
+<br/>
 
 <div align="center">
 
-<a href="mailto:sergio.garcia.cristobal@gmail.com"><img src="https://img.shields.io/badge/Email-Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
-<a href="https://www.linkedin.com/in/sergio-garc%C3%ADa-crist%C3%B3bal-88652741a/"><img src="https://img.shields.io/badge/LinkedIn-Sergio-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-<a href="https://github.com/SGC11PRO"><img src="https://img.shields.io/badge/GitHub-SGC11PRO-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://sergiogarciacristobal.netlify.app"><img src="https://img.shields.io/badge/Portfolio-SGC-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+### 🗺️ Roadmap
+
+<br/>
+
+<img src="https://img.shields.io/badge/Computer_Engineering_@_UC3M-0d1117?style=for-the-badge&labelColor=5B79F0&label=In+progress" alt="UC3M"/>
 
 <br/>
 
 <br/>
 
-*Always building something · Open to internships & collaborations*
+<img src="https://img.shields.io/badge/Offensive_Security-0d1117?style=flat-square&labelColor=DA3633" alt="Offensive Security"/>
+<img src="https://img.shields.io/badge/Defensive_Security-0d1117?style=flat-square&labelColor=238636" alt="Defensive Security"/>
+<img src="https://img.shields.io/badge/AI_/_ML-0d1117?style=flat-square&labelColor=5B79F0" alt="AI/ML"/>
+<img src="https://img.shields.io/badge/Quantum_Computing-0d1117?style=flat-square&labelColor=A371F7" alt="Quantum Computing"/>
+<img src="https://img.shields.io/badge/IoT_&_Embedded-0d1117?style=flat-square&labelColor=F0883E" alt="IoT"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:5B79F0,100:0d1117&height=120&section=footer&text=Keep%20breaking%20things%20%28on%20purpose%29&fontSize=14&fontColor=5B79F0&fontAlignY=55" width="100%" alt="Footer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161B22,100:0d1117&height=100&section=footer" alt=""/>
+<br/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=4000&pause=2000&color=5B79F0&center=true&vCenter=true&multiline=true&repeat=true&width=350&height=40&lines=Always+building+something;Open+to+internships+%26+collaborations" alt="Footer typing"/>
 </div>
